@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(mosa-meat-website-header.jpg);
+    background-size: ;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .hero {
+    
+   
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+    
+  }
+  
+  .btn {
+    background-color: #f00;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .about,
+  .menu,
+  .price-list {
+    padding: 2rem;
+  }
+  
+  .price-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .price-list td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
